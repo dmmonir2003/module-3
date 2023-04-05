@@ -1,0 +1,10 @@
+1-odd
+2-evan
+3-odd
+4-evan
+5-odd
+6-evan
+7-odd
+8-evan
+9-odd
+10-evan
